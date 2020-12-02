@@ -1,6 +1,8 @@
 # CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems, "acepta el reto", "uva", "codeforces"...
-
+  
+Work in Progress: Not all of the problems are in the list below  
+  
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
 [AceptaElReto 117](./problems/aer117/src/Main.java)  
