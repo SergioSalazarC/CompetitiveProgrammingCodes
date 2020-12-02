@@ -1,2 +1,2 @@
-# CompetitiveProgramminCodes
+# CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems, "acepta el reto", "uva", "codeforces"...
