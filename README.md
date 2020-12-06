@@ -26,7 +26,7 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 [UVa 624](./problems/uva00624/src/Main.java)  
 [UVa 924](./problems/uva00924/src/Main.java)  
 [UVa 1047](./problems/uva01047/src/Main.java)  
-[UVa 1225](./problems/uva01225/src/Main.java) 
+[UVa 1225](./problems/uva01225/src/Main.java)  
 [UVa 10199](./problems/uva10199/src/Main.java)  
 [UVa 10336](./problems/uva10336/src/Main.java)  
 [UVa 10282](./problems/uva10282/src/Main.java)  
