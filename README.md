@@ -35,7 +35,7 @@ Problems Uploaded: AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 590](./problems/aer590/src/Main.java)  
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
 
-[CodeForces Round693 A](./problems/codeforces Round693 A/src/Main.java)  
+[CodeForces Round693 A](./problems/codeforcesRound693A/src/Main.java)  
 [CodeForces Round693 B](./problems/codeforces Round693 B/src/Main.java)  
 [CodeForces Round693 C](./problems/codeforces Round693 C/src/Main.java)  
 [CodeForces Round693 D](./problems/codeforces Round693 D/src/Main.java)  
