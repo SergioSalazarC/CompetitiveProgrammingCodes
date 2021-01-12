@@ -1,14 +1,19 @@
 # CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"...
+
+Problems Uploaded: AER:30 CF:4 Spoj:12 Uva:36 Total:82
   
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
+[AceptaElReto 112](./problems/aer112/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
 [AceptaElReto 117](./problems/aer117/src/Main.java)  
 [AceptaElReto 119](./problems/aer119/src/Main.java)  
 [AceptaElReto 130](./problems/aer130/src/Main.java)  
+[AceptaElReto 165](./problems/aer165/src/Main.java)  
 [AceptaElReto 306](./problems/aer306/src/Main.java)  
 [AceptaElReto 309](./problems/aer309/src/Main.java)  
 [AceptaElReto 314](./problems/aer314/src/Main.java)  
+[AceptaElReto 317](./problems/aer317/src/Main.java)  
 [AceptaElReto 366](./problems/aer366/src/Main.java)  
 [AceptaElReto 382](./problems/aer382/src/Main.java)  
 [AceptaElReto 406](./problems/aer406/src/Main.java)  
@@ -21,6 +26,19 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 [AceptaElReto 467](./problems/aer467/src/Main.java)  
 [AceptaElReto 528](./problems/aer528/src/Main.java)  
 [AceptaElReto 537](./problems/aer537/src/Main.java)  
+[AceptaElReto 583](./problems/aer583/src/Main.java)  
+[AceptaElReto 584](./problems/aer584/src/Main.java)  
+[AceptaElReto 586](./problems/aer586/src/Main.java)  
+[AceptaElReto 587](./problems/aer587/src/Main.java)  
+[AceptaElReto 588](./problems/aer588/src/Main.java)  
+[AceptaElReto 589](./problems/aer589/src/Main.java)  
+[AceptaElReto 590](./problems/aer590/src/Main.java)  
+[AceptaElReto 591](./problems/aer591/src/Main.java)  
+
+[CodeForces Round693 A](./problems/codeforces Round693 A/src/Main.java)  
+[CodeForces Round693 B](./problems/codeforces Round693 B/src/Main.java)  
+[CodeForces Round693 C](./problems/codeforces Round693 C/src/Main.java)  
+[CodeForces Round693 D](./problems/codeforces Round693 D/src/Main.java)  
 
 [Spoj BITMAP](./problems/spojBITMAP/src/Main.java)  
 [Spoj COINS](./problems/spojCOINS/src/Main.java)  
