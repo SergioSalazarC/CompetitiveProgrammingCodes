@@ -13,11 +13,7 @@ Problems Uploaded: AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 306](./problems/aer306/src/Main.java)  
 [AceptaElReto 309](./problems/aer309/src/Main.java)  
 [AceptaElReto 314](./problems/aer314/src/Main.java)  
-<<<<<<< HEAD
 [AceptaElReto 317](./problems/aer317/src/Main.java)  
-=======
-[AceptaElReto 314](./problems/aer317/src/Main.java)  
->>>>>>> b89307b03cf3bffd962f58f570048412472bbb3b
 [AceptaElReto 366](./problems/aer366/src/Main.java)  
 [AceptaElReto 382](./problems/aer382/src/Main.java)  
 [AceptaElReto 406](./problems/aer406/src/Main.java)  
