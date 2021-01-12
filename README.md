@@ -36,9 +36,9 @@ Problems Uploaded: AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
 
 [CodeForces Round693 A](./problems/codeforcesRound693A/src/Main.java)  
-[CodeForces Round693 B](./problems/codeforces Round693 B/src/Main.java)  
-[CodeForces Round693 C](./problems/codeforces Round693 C/src/Main.java)  
-[CodeForces Round693 D](./problems/codeforces Round693 D/src/Main.java)  
+[CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
+[CodeForces Round693 C](./problems/codeforcesRound693C/src/Main.java)  
+[CodeForces Round693 D](./problems/codeforcesRound693D/src/Main.java)  
 
 [Spoj BITMAP](./problems/spojBITMAP/src/Main.java)  
 [Spoj COINS](./problems/spojCOINS/src/Main.java)  
