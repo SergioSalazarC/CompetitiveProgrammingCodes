@@ -6,8 +6,9 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
   
-
+<a href="https://www.aceptaelreto.com/user/profile.php?id=13978">
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="200" height="60">  
+</a>
 
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
 [AceptaElReto 112](./problems/aer112/src/Main.java)  
