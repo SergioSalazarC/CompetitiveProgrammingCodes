@@ -61,6 +61,8 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [Spoj PPATH](./problems/spojPPATH/src/Main.java)  
 [Spoj SCUBADIV](./problems/spojSCUBADIV/src/Main.java)  
 
+<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png">  
+
 [UVa 100](./problems/uva00100/src/Main.java)  
 [UVa 280](./problems/uva00280/src/Main.java)  
 [UVa 311](./problems/uva00311/src/Main.java)  
