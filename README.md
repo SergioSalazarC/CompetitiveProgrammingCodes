@@ -1,5 +1,11 @@
 # CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"...
+# Editor.md
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 
 Problems Uploaded: AER:30 CF:4 Spoj:12 Uva:36 Total:82
   
