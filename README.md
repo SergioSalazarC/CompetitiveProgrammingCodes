@@ -44,8 +44,9 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 <br/>
 <br/>
   
-
+<a href="https://codeforces.com/profile/Serg_">
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png" width="300" height="80">  
+</a>
 
 [CodeForces Round693 A](./problems/codeforcesRound693A/src/Main.java)  
 [CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
@@ -54,7 +55,9 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 <br/>
 <br/>
 
+<a href="https://www.spoj.com/users/serg__/">
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/spoj.jpeg" width="80" height="80">  
+</a>
 
 [Spoj BITMAP](./problems/spojBITMAP/src/Main.java)  
 [Spoj COINS](./problems/spojCOINS/src/Main.java)  
@@ -71,7 +74,9 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 <br/>
 <br/>
 
+<a href="https://uhunt.onlinejudge.org/id/1125078">
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png" width="80" height="80">  
+</a>
 
 [UVa 100](./problems/uva00100/src/Main.java)  
 [UVa 280](./problems/uva00280/src/Main.java)  
