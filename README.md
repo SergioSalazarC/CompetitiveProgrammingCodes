@@ -1,6 +1,6 @@
 # CompetitiveProgrammingCodes <img src="https://icon-library.com/images/java-icon-image/java-icon-image-0.jpg" width="60" height="60"> 
-A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"... <br/>
-Click on the logo to see my profiles 😎😎😎 <br/>
+A list of my solutions of competitive programming problems in different platforms like: "acepta el reto", "uva", "codeforces"... <br/>
+Click on each logo to see my profiles and statistics 😎😎😎 <br/>
 <br/>
 Problems Uploaded:
 <br/>
