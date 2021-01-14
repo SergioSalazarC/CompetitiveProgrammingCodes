@@ -14,7 +14,7 @@ Problems Uploaded:
 <br/>
 
 <a href="https://www.aceptaelreto.com/user/profile.php?id=13978">
-<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="180" height="50">  
+<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG">  
 </a>
 
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
