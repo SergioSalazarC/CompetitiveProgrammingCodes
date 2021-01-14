@@ -39,7 +39,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 590](./problems/aer590/src/Main.java)  
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
 
-![CodeForces](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png){:height="24px" width="48px"}  
+<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png" width="100" height="100">  
 [CodeForces Round693 A](./problems/codeforcesRound693A/src/Main.java)  
 [CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
 [CodeForces Round693 C](./problems/codeforcesRound693C/src/Main.java)  
