@@ -1,11 +1,12 @@
 # CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"...
 
-![Acepta el Reto](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG)
+
 
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
-  
+
+![Acepta el Reto](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG)
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
 [AceptaElReto 112](./problems/aer112/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
@@ -38,11 +39,13 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 590](./problems/aer590/src/Main.java)  
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
 
+![CodeForces](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png)
 [CodeForces Round693 A](./problems/codeforcesRound693A/src/Main.java)  
 [CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
 [CodeForces Round693 C](./problems/codeforcesRound693C/src/Main.java)  
 [CodeForces Round693 D](./problems/codeforcesRound693D/src/Main.java)  
 
+![Spoj](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/spoj.jpeg)
 [Spoj BITMAP](./problems/spojBITMAP/src/Main.java)  
 [Spoj COINS](./problems/spojCOINS/src/Main.java)  
 [Spoj DRAWM](./problems/spojDRAWM/src/Main.java)  
