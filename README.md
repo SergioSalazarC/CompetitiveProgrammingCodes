@@ -6,7 +6,8 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
 
-![Acepta el Reto](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG)  
+<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="200" height="80">  
+
 [AceptaElReto 110](./problems/aer110/src/Main.java)  
 [AceptaElReto 112](./problems/aer112/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
@@ -61,7 +62,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [Spoj PPATH](./problems/spojPPATH/src/Main.java)  
 [Spoj SCUBADIV](./problems/spojSCUBADIV/src/Main.java)  
 
-<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png">  
+<img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png" width="80" height="80">  
 
 [UVa 100](./problems/uva00100/src/Main.java)  
 [UVa 280](./problems/uva00280/src/Main.java)  
