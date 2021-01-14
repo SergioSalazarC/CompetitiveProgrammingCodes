@@ -3,6 +3,7 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 Click on the logo to see my profiles 😎😎😎 <br/>
 <br/>
 Problems Uploaded:
+<br/>
 ![](https://img.shields.io/static/v1?label=AceptaElReto&message=30&color=blue)
 ![](https://img.shields.io/static/v1?label=CodeForces&message=4&color=red)
 ![](https://img.shields.io/static/v1?label=Spoj&message=12&color=green)
