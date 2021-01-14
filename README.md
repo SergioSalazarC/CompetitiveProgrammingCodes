@@ -5,6 +5,7 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
+  
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="200" height="60">  
 
@@ -39,6 +40,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 589](./problems/aer589/src/Main.java)  
 [AceptaElReto 590](./problems/aer590/src/Main.java)  
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
+  
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png" width="300" height="80">  
 
@@ -46,6 +48,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
 [CodeForces Round693 C](./problems/codeforcesRound693C/src/Main.java)  
 [CodeForces Round693 D](./problems/codeforcesRound693D/src/Main.java)  
+  
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/spoj.jpeg" width="80" height="80">  
 
@@ -61,6 +64,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [Spoj MKLABELS](./problems/spojMKLABELS/src/Main.java)  
 [Spoj PPATH](./problems/spojPPATH/src/Main.java)  
 [Spoj SCUBADIV](./problems/spojSCUBADIV/src/Main.java)  
+  
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png" width="80" height="80">  
 
