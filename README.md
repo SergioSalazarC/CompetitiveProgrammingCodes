@@ -3,7 +3,11 @@ A list of my solutions of competitive programming problems (JAVA), "acepta el re
 Click on the logo to see my profiles 😎😎😎 <br/>
 <br/>
 Problems Uploaded:
-AER:30 CF:4 Spoj:12 Uva:36 Total:82
+![](https://img.shields.io/static/v1?label=AceptaElReto&message=30&color=brightgreen)
+![](https://img.shields.io/static/v1?label=CodeForces&message=4&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Spoj&message=12&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Uva&message=36&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Total&message=82&color=brightgreen)  
 <br/>
 <br/>
 
