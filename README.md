@@ -1,11 +1,11 @@
 # CompetitiveProgrammingCodes
-A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"...
-
-
-
+A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"... <br/>
+Click on the logo to see my profiles 😎😎😎 <br/>
+<br/>
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
-  
+<br/>
+
 <a href="https://www.aceptaelreto.com/user/profile.php?id=13978">
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="200" height="60">  
 </a>
