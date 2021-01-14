@@ -9,7 +9,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG" width="200" height="60">  
 
-[AceptaElReto 110](./problems/aer110/src/Main.java)<br/>
+[AceptaElReto 110](./problems/aer110/src/Main.java)  
 [AceptaElReto 112](./problems/aer112/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
 [AceptaElReto 117](./problems/aer117/src/Main.java)  
@@ -40,6 +40,8 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [AceptaElReto 589](./problems/aer589/src/Main.java)  
 [AceptaElReto 590](./problems/aer590/src/Main.java)  
 [AceptaElReto 591](./problems/aer591/src/Main.java)  
+<br/>
+<br/>
   
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/cf.png" width="300" height="80">  
@@ -48,7 +50,8 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [CodeForces Round693 B](./problems/codeforcesRound693B/src/Main.java)  
 [CodeForces Round693 C](./problems/codeforcesRound693C/src/Main.java)  
 [CodeForces Round693 D](./problems/codeforcesRound693D/src/Main.java)  
-  
+<br/>
+<br/>
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/spoj.jpeg" width="80" height="80">  
 
@@ -64,7 +67,8 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [Spoj MKLABELS](./problems/spojMKLABELS/src/Main.java)  
 [Spoj PPATH](./problems/spojPPATH/src/Main.java)  
 [Spoj SCUBADIV](./problems/spojSCUBADIV/src/Main.java)  
-  
+<br/>
+<br/>
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/ojlogo2.png" width="80" height="80">  
 
