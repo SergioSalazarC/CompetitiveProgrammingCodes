@@ -1,6 +1,8 @@
 # CompetitiveProgrammingCodes
 A list of my solutions of competitive programming problems (JAVA), "acepta el reto", "uva", "codeforces"...
 
+![Acepta el Reto](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG)
+
 Problems Uploaded:
 AER:30 CF:4 Spoj:12 Uva:36 Total:82
   
