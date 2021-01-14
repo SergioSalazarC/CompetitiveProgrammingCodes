@@ -47,6 +47,7 @@ AER:30 CF:4 Spoj:12 Uva:36 Total:82
 [CodeForces Round693 D](./problems/codeforcesRound693D/src/Main.java)  
 
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/spoj.jpeg" width="80" height="80">  
+
 [Spoj BITMAP](./problems/spojBITMAP/src/Main.java)  
 [Spoj COINS](./problems/spojCOINS/src/Main.java)  
 [Spoj DRAWM](./problems/spojDRAWM/src/Main.java)  
