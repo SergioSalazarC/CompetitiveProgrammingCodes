@@ -17,12 +17,20 @@ Problems Uploaded:
 <img src="https://github.com/SergioSalazarC/CompetitiveProgrammingCodes/blob/main/media/aer.PNG">  
 </a>
 
-[AceptaElReto 110](./problems/aer110/src/Main.java)  
-[AceptaElReto 112](./problems/aer112/src/Main.java)  
+[AceptaElReto 100](./problems/aer100/src/Main.java)  
+[AceptaElReto 101](./problems/aer101/src/Main.java)  
+[AceptaElReto 111](./problems/aer111/src/Main.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
+[AceptaElReto 116](./problems/aer116/src/Main.java)  
 [AceptaElReto 117](./problems/aer117/src/Main.java)  
 [AceptaElReto 119](./problems/aer119/src/Main.java)  
 [AceptaElReto 130](./problems/aer130/src/Main.java)  
+[AceptaElReto 139](./problems/aer139/src/Main.java)  
+[AceptaElReto 140](./problems/aer140/src/Main.java)  
+[AceptaElReto 141](./problems/aer141/src/Main.java)  
+[AceptaElReto 143](./problems/aer143/src/Main.java)  
+[AceptaElReto 155](./problems/aer155/src/Main.java)
+[AceptaElReto 164](./problems/aer164/src/Main.java)  
 [AceptaElReto 165](./problems/aer165/src/Main.java)  
 [AceptaElReto 306](./problems/aer306/src/Main.java)  
 [AceptaElReto 309](./problems/aer309/src/Main.java)  
