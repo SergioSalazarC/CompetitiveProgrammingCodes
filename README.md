@@ -4,7 +4,7 @@ Click on each logo to see my profiles and statistics 😎😎😎 <br/>
 <br/>
 Problems Uploaded:
 <br/>
-![](https://img.shields.io/static/v1?label=AceptaElReto&message=30&color=blue)
+![](https://img.shields.io/static/v1?label=AceptaElReto&message=39&color=blue)
 ![](https://img.shields.io/static/v1?label=CodeForces&message=4&color=red)
 ![](https://img.shields.io/static/v1?label=Spoj&message=12&color=green)
 ![](https://img.shields.io/static/v1?label=Uva&message=36&color=yellow)
@@ -29,7 +29,7 @@ Problems Uploaded:
 [AceptaElReto 140](./problems/aer140/src/Main.java)  
 [AceptaElReto 141](./problems/aer141/src/Main.java)  
 [AceptaElReto 143](./problems/aer143/src/Main.java)  
-[AceptaElReto 155](./problems/aer155/src/Main.java)
+[AceptaElReto 155](./problems/aer155/src/Main.java)  
 [AceptaElReto 164](./problems/aer164/src/Main.java)  
 [AceptaElReto 165](./problems/aer165/src/Main.java)  
 [AceptaElReto 306](./problems/aer306/src/Main.java)  
