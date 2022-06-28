@@ -4,12 +4,12 @@ Click on each logo to see my profiles and statistics 😎😎😎 <br/>
 <br/>
 Problems Uploaded:
 <br/>
-![](https://img.shields.io/static/v1?label=AceptaElReto&message=91&color=blue)
-![](https://img.shields.io/static/v1?label=CodeForces&message=4&color=red)
-![](https://img.shields.io/static/v1?label=Spoj&message=12&color=green)
-![](https://img.shields.io/static/v1?label=Uva&message=36&color=yellow)
+![](https://img.shields.io/static/v1?label=AceptaElReto&message=116/172&color=blue)
+![](https://img.shields.io/static/v1?label=CodeForces&message=4/63&color=red)
+![](https://img.shields.io/static/v1?label=Spoj&message=12/27&color=green)
+![](https://img.shields.io/static/v1?label=Uva&message=36/64&color=yellow)
 <br/>
-![](https://img.shields.io/static/v1?label=Total&message=143&color=orange)  
+![](https://img.shields.io/static/v1?label=Total&message=168/326&color=orange)  
 <br/>
 <br/>
 
