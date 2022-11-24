@@ -4,6 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class uva11473 {
+    public static double EPS = 1E-9;
     public static Point CERO = new Point(0,0);
 
     public static class Point{
@@ -50,7 +51,7 @@ public class uva11473 {
                     d+=dist(puntos[i],puntos[i-1]);
                 }
             }
-            double seg = d/(t-1);
+            double seg = (d/(t-1));
 
             double recorrido=0;
             double queda=seg;
@@ -60,7 +61,7 @@ public class uva11473 {
             l.add(puntos[0]);
             while(recorrido<d){
                 if(segact>=k)break;
-                if(dist(actual,puntos[segact])<seg){
+                if(dist(actual,puntos[segact])<queda){
                     queda-=dist(actual,puntos[segact]);
                     recorrido+=dist(actual,puntos[segact]);
                     actual=puntos[segact];
@@ -76,8 +77,8 @@ public class uva11473 {
 
                 }
             }
-            l.add(puntos[k-1]);
-            DecimalFormat df = new DecimalFormat("###.00");
+            if(l.size()<t)l.add(puntos[k-1]);
+            DecimalFormat df = new DecimalFormat("##0.00");
             for (Point a : l) {
                 System.out.println(df.format(a.x)+" "+df.format(a.y));
             }

@@ -4,13 +4,14 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class uva191 {
+    static double EPS = 1E-5;
 
     public static class Point {
         //Clase Para Points y vectores (Se utilizan ambos de manera identica)
         double x;
         double y;
 
-        static double EPS = 1E-9;
+
 
         public Point(double x, double y) {
             this.x = x;
@@ -160,9 +161,9 @@ public class uva191 {
         boolean inPolygon(Point p){
             int n = pol.size();
             double sum=0;
-            //if (p.onSegment(pol.get(0),pol.get(n-1))) return true;
+            if (p.onSegment(pol.get(0),pol.get(n-1))) return true;
             for(int i=0;i<n-1;i++){
-                //if (p.onSegment(pol.get(i),pol.get(i+1))) return true;
+                if (p.onSegment(pol.get(i),pol.get(i+1))) return true;
                 Point pi = pol.get(i);
                 Point pi1 = pol.get(i+1);
                 if(pi1.ccw(p,pi)) sum += p.angle(pi,pi1);
@@ -245,7 +246,7 @@ public class uva191 {
         else{
             double m =(a.y-b.y)/(a.x-b.x);
             double n = a.y-m*a.x;
-            if(c.y == m*c.x+n){
+            if(m*c.x+n-EPS <= c.y && c.y <= m*c.x+n+EPS){
                 double xm=Math.min(a.x,b.x);
                 double xM=Math.max(a.x,b.x);
                 double ym=Math.min(a.y,b.y);
@@ -286,7 +287,11 @@ public class uva191 {
 
             if (a.x==b.x && a.y==b.y) {
                 if(pol.inPolygon(a)) System.out.println("T");
-                else System.out.println("F");
+                else {
+                    if((a.x==xleft || a.x==xright) && (a.y==ytop || a.y==ybottom)) System.out.println("T");
+                    else System.out.println("F");
+                }
+
 
             }
             else {
@@ -294,9 +299,13 @@ public class uva191 {
 
                 Polygon aux = pol.cutPolygon(a, b);
 
-                if (pertenece(a, b, p.get(0)) || pertenece(a, b, p.get(1)) || pertenece(a, b, p.get(2)) || pertenece(a, b, p.get(3))) {
+                if (pertenece(a, b, p.get(2)) || pertenece(a, b, p.get(0)) || pertenece(a, b, p.get(1)) ||  pertenece(a, b, p.get(3))) {
                     System.out.println("T");
-                } else {
+                }else if(pertenece(p.get(0),p.get(1),a) ||pertenece(p.get(1),p.get(2),a) ||pertenece(p.get(2),p.get(3),a) ||pertenece(p.get(3),p.get(0),a) ){
+                    System.out.println("T");
+                }else if(pertenece(p.get(0),p.get(1),b) ||pertenece(p.get(1),p.get(2),b) ||pertenece(p.get(2),p.get(3),b) ||pertenece(p.get(3),p.get(0),b) ){
+                    System.out.println("T");
+                }else {
                     if (aux.pol.isEmpty() || aux.pol.equals(pol.pol)) {
                         System.out.println("F");
                     } else {
