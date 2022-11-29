@@ -107,12 +107,21 @@ public class aer389 {
 
         }
         else{
-            //a+b+^=c
             char lop1 = op1.charAt(indice);
             char lop2 = op2.charAt(indice);
             char lsol = sol.charAt(indice);
             if(dicc[lop1]!=-1 && dicc[lop2]!=-1 && dicc[lsol]!=-1){
-                if((dicc[lop1]*dicc[lop2]+acarreo)%10 == dicc[lsol]) return resolver_suma(indice+1,(dicc[lop1]*dicc[lop2]+acarreo)/10,op1,op2,sol);
+                int debe=0;
+                int aux=indice-1;
+                for (int i = 0; i < indice; i++) {
+                    char a = op2.charAt(i);
+                    char b = op1.charAt(aux);
+                    aux--;
+                    debe+= dicc[a]*dicc[b];
+                }
+                debe+=acarreo;
+
+                if(dicc[lsol]==debe%10) return resolver_prod(indice+1,debe/10,op1,op2,sol);
                 else return false;
             }
             else{
@@ -122,7 +131,7 @@ public class aer389 {
                         if(usado[i])continue;
                         dicc[lop1]=i;
                         usado[i]=true;
-                        devolver = devolver || resolver_suma(indice,acarreo,op1,op2,sol);
+                        devolver = devolver || resolver_prod(indice,acarreo,op1,op2,sol);
                         dicc[lop1]=-1;
                         usado[i]=false;
                     }
@@ -132,17 +141,26 @@ public class aer389 {
                         if(usado[i])continue;
                         dicc[lop2]=i;
                         usado[i]=true;
-                        devolver = devolver || resolver_suma(indice,acarreo,op1,op2,sol);
+                        devolver = devolver || resolver_prod(indice,acarreo,op1,op2,sol);
                         dicc[lop2]=-1;
                         usado[i]=false;
                     }
                 }
                 else{
-                    int debe = dicc[lop1] * dicc[lop2] + acarreo;
+                    //int debe = dicc[lop1] * dicc[lop2] + acarreo;
+                    int debe=0;
+                    int aux=indice;
+                    for (int i = 0; i <= indice; i++) {
+                        char a = op2.charAt(i);
+                        char b = op1.charAt(aux);
+                        aux--;
+                        debe+= dicc[a]*dicc[b];
+                    }
+                    debe+=acarreo;
                     if(usado[debe%10])return false;
                     dicc[lsol]=debe%10;
                     usado[debe%10]=true;
-                    devolver = devolver || resolver_suma(indice,acarreo,op1,op2,sol);
+                    devolver = devolver || resolver_prod(indice+1,debe/10,op1,op2,sol);
                     dicc[lsol]=-1;
                     usado[debe%10]=false;
                 }
