@@ -27,6 +27,7 @@ public class ReadmeScript {
 
             if(lista[i].contains("aer")){
                 int id = Integer.parseInt(lista[i].substring(3));
+                if(id==567 || id==656)continue;
                 problemas.add(new Problema( id , "[AceptaElReto "+id+"](./problems/"+lista[i]+"/src/Main.java)  "));
             }
         }
@@ -37,6 +38,7 @@ public class ReadmeScript {
 
             if(lista[i].contains("aer")){
                 int id = Integer.parseInt(lista[i].substring(3,6));
+                if(id==567 || id==656)continue;
                 problemas.add(new Problema(id, "[AceptaElReto "+id+"](./problemsII/"+lista[i]+")  "));
             }
         }
