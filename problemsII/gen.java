@@ -1,25 +1,49 @@
 public class gen {
     public static void main(String[] args) {
-        System.out.println(50176);
-        int s=0;
-        for (int i = -2; i < 2; i++) {
-            for (int j = -2; j < 2; j++) {
-                for (int k = -2; k < 2; k++) {
-                    for (int l = -2; l < 2; l++) {
-                        for (int m = -2; m < 2; m++) {
-                            for (int n = -2; n < 2; n++) {
-                                for (int o = m; o < 3; o++) {
-                                    for (int p = n; p < 3; p++) {
-                                        s++;
-                                        System.out.println(i+" "+j+" "+k+" "+l+" "+m+" "+n+" "+o+" "+p);
-                                    }
-                                }
-                            }
-                        }
-                    }
+        for (int sdf = 0; sdf < 1; sdf++) {
+            int n=4000;
+            int[] aux = new int[n+1];
+            for (int i = 0; i < n+1; i++) {
+                aux[i] = (int) (Math.random()*100000);
+            }
+
+
+            //int t = (int) (Math.random()*20000)+30000;
+            //int s =(int) (Math.random()*20000)+30000;
+            int t = 50000;
+            int s = 50000;
+            System.out.println(n+" "+t+" "+s);
+            for (int i = 0; i < t; i++) {
+                int k = (int) (Math.random()*2+1);
+                if(k==1){
+                    int alm = (int) (Math.random()*n);
+                    System.out.println(k+" "+alm+" "+aux[alm]);
+                }
+                else{
+                    k=2;
+                    int alm = (int) (Math.random()*n);
+                    int alm2 = (int) (Math.random()*n);
+                    int auxs = aux[alm]+aux[alm2];
+                    System.out.println(k+" "+alm+" "+alm2+" "+auxs);
                 }
             }
+
+            for (int i = 0; i < s; i++) {
+                int k = (int) (Math.random()*2+1);
+                if(k==1){
+                    int alm = (int) (Math.random()*n);
+                    System.out.println(k+" "+alm);
+                }
+                else{
+                    k=2;
+                    int alm = (int) (Math.random()*n);
+                    int alm2 = (int) (Math.random()*n);
+                    System.out.println(k+" "+alm+" "+alm2);
+                }
+            }
+            System.out.println("0 0 0");
+            //System.out.println(s);
         }
-        //System.out.println(s);
+
     }
 }
