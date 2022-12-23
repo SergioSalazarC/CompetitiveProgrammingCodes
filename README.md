@@ -20,6 +20,7 @@ Problems Uploaded:
 [AceptaElReto 100](./problems/aer100/src/Main.java)  
 [AceptaElReto 101](./problems/aer101/src/Main.java)  
 [AceptaElReto 111](./problems/aer111/src/Main.java)  
+[AceptaElReto 112](./problemsII/aer112.java)  
 [AceptaElReto 114](./problems/aer114/src/Main.java)  
 [AceptaElReto 116](./problems/aer116/src/Main.java)  
 [AceptaElReto 117](./problems/aer117/src/Main.java)  
@@ -109,8 +110,10 @@ Problems Uploaded:
 [AceptaElReto 512](./problems/aer512/src/Main.java)  
 [AceptaElReto 517](./problems/aer517/src/Main.java)  
 [AceptaElReto 537](./problems/aer537/src/Main.java)  
+[AceptaElReto 538](./problemsII/aer538.java)  
 [AceptaElReto 545](./problems/aer545/src/Main.java)  
 [AceptaElReto 551](./problems/aer551/src/Main.java)  
+[AceptaElReto 567](./problemsII/aer567.java)  
 [AceptaElReto 573](./problemsII/aer573.java)  
 [AceptaElReto 584](./problems/aer584/src/Main.java)  
 [AceptaElReto 586](./problems/aer586/src/Main.java)  
@@ -143,7 +146,7 @@ Problems Uploaded:
 [AceptaElReto 650](./problemsII/aer650.java)  
 [AceptaElReto 651](./problemsII/aer651.java)  
 [AceptaElReto 652](./problemsII/aer652.java)  
-[AceptaElReto 656](./problemsII/aer656.java)  
+[AceptaElReto 656](./problemsII/aer656.java)    
 
 <br/>
 <br/>
