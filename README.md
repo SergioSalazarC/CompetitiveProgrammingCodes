@@ -9,7 +9,7 @@ Problems Uploaded:
 ![](https://img.shields.io/static/v1?label=Spoj&message=12/27&color=green)
 ![](https://img.shields.io/static/v1?label=Uva&message=36/64&color=yellow)
 <br/>
-![](https://img.shields.io/static/v1?label=Total&message=168/326&color=orange)  
+![](https://img.shields.io/static/v1?label=Total&message=240/342&color=orange)  
 <br/>
 <br/>
 
