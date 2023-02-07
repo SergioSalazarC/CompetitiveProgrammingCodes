@@ -44,6 +44,7 @@ public class ReadmeScript {
         }
 
         Collections.sort(problemas);
+        System.out.println(problemas.size());
 
         for(Problema p : problemas){
             System.out.println(p.url);
